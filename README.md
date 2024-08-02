@@ -1,10 +1,10 @@
 # Python-Data-Analysis-Project---Atliq-Grands-Hotel-Chain
 
-Project Overview
+**Project Overview**
 
 This project involves analyzing data from Atliq Grands, a leading hotel chain, to derive actionable insights. The analysis covers occupancy rates, revenue trends, and customer ratings across various cities and room categories.
 
-Key Objectives
+**Key Objectives**
 
 Calculate average occupancy rates across different room categories and cities.
 
@@ -14,7 +14,7 @@ Analyze monthly revenue and identify the most profitable periods.
 
 Examine the impact of booking platforms on revenue.
 
-Data Files
+**Data Files**
 
 dim_date.csv: Date details including weekend/weekday information.
 
@@ -28,7 +28,7 @@ fact_bookings.csv: Individual booking records with revenue and occupancy details
 
 new_data_august.csv: Latest booking data for August.
 
-Steps Followed
+**Steps Followed**
 
 Data Exploration: Initial understanding of the data using descriptive statistics, visualizations, and exploration of unique values.
 
@@ -38,7 +38,7 @@ Data Transformation: Calculated occupancy rates, converted data types, and prepa
 
 Ad Hoc Analysis: Conducted specific analyses to answer business questions related to occupancy, revenue, and customer ratings.
 
-Insights
+**Insights**
 
 Occupancy Trends: Highest in Presidential rooms; lowest in Premium rooms.
 
@@ -48,9 +48,12 @@ Revenue Trends: Mumbai generated the highest revenue, while Delhi, despite high 
 
 Customer Ratings: Higher average ratings in Delhi; lower in Bangalore.
 
-Visualizations
+**Visualizations**
+
 Bar charts for occupancy rates across cities and room categories.
+
 Pie chart showing revenue distribution across booking platforms.
 
-Conclusion
+**Conclusion**
+
 This project was a valuable experience in applying Python for data analysis, and it provided key insights that could help Atliq Grands optimize their operations and increase revenue.
